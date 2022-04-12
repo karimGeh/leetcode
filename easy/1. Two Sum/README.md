@@ -9,5 +9,5 @@ that takes 2 arguments as input:
 - second one is the length of the output array. In our case _2_ because we want the sum of _2_ numbers to be equal to the target value.
 
 example of how combination function work:
-combinations('ABCD', 2) --> AB AC AD BC BD CD
-combinations(range(4), 3) --> 012 013 023 123
+ - combinations('ABCD', 2) --> AB AC AD BC BD CD
+ - combinations(range(4), 3) --> 012 013 023 123
